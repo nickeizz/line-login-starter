@@ -1,5 +1,3 @@
-<?php
- 
 $strAccessToken = "ACCESS_TOKEN";
  
 $content = file_get_contents('php://input');
